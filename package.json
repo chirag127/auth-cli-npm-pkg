@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "CLI auth — Firebase OAuth device-code flow + token store at ~/.config/oriz/auth.json + refresh on 401. Peer-deps on @chirag127/auth-core.",
   "type": "module",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chirag Singhal <chirag@oriz.in>",
   "homepage": "https://github.com/chirag127/auth-cli-npm-pkg#readme",
   "repository": { "type": "git", "url": "git+https://github.com/chirag127/auth-cli-npm-pkg.git" },
